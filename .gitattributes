@@ -1,1 +1,4 @@
+gmrepo-database.zip filter=lfs diff=lfs merge=lfs -text
+microbioma.sql filter=lfs diff=lfs merge=lfs -text
+README.md filter=lfs diff=lfs merge=lfs -text
 * filter=lfs diff=lfs merge=lfs -text
